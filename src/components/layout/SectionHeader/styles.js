@@ -21,7 +21,7 @@ export const Container = styled.section`
   justify-content: center;
   gap: 25px;
 
-  background-image: url('./assets/background-cell.jpg');
+  background-image: url('../../../assets/background-cell.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
