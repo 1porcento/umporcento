@@ -21,7 +21,7 @@ export const Container = styled.section`
   justify-content: center;
   gap: 25px;
 
-  background-image: url('https://res.cloudinary.com/doalz5zdo/image/upload/v1727292431/background-cell_obmu8r.jpg');
+  background-image: url('./assets/background-cell.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
